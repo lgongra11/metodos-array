@@ -1,4 +1,4 @@
-// Exemplos misturando métodos - Fase de Fixaçac
+// Exemplos misturando métodos - Fase de Fixação
 
 console.log(" === 8. Combinando Métodos === ");
 

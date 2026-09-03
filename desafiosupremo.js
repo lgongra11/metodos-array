@@ -35,7 +35,7 @@ if (opcao === "1") {
     }
 } else if (opcao === "4") {
     let musica = prompt("Digite o nome da música a ser inserida: ");
-    let indice = parseInt(prompt("Digite o índice onde inserir a música: "));
+    let indice = prompt("Digite o índice onde inserir a música: ");
     playlist.splice(indice, 0, musica);
     console.log(playlist);
 } else if (opcao === "5") {
